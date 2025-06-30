@@ -1,0 +1,12 @@
+# Requires Python 3.8 or higher
+
+opencv-python
+moviepy
+scikit-learn
+numpy
+matplotlib
+librosa
+scipy
+tqdm
+torch      # Optional, for advanced ML models
+notebook   # If using Jupyter notebooks
