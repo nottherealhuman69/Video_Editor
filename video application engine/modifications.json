@@ -1,0 +1,11 @@
+{
+  "modifications": [
+    {
+      "chunk": 0,
+      "type": "transition",
+      "target_chunk": 1,
+      "name": "glitch",
+      "reason": "The video has a fast pace. A 'Glitch' transition would match this energy."
+    }
+  ]
+}
